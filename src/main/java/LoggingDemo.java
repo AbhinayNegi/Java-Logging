@@ -9,5 +9,6 @@ public class LoggingDemo {
         logger.warn("This is warning log");
         logger.error("This is error");
         logger.info("This is info");
+        logger.trace("Trace");
     }
 }

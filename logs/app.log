@@ -1,0 +1,8 @@
+[2025-09-21 11:45:34] DEBUG LoggingDemo - This is debug
+[2025-09-21 11:45:34] WARN  LoggingDemo - This is warning log
+[2025-09-21 11:45:34] ERROR LoggingDemo - This is error
+[2025-09-21 11:45:34] INFO  LoggingDemo - This is info
+[2025-09-21 11:48:39] DEBUG LoggingDemo - This is debug
+[2025-09-21 11:48:39] WARN  LoggingDemo - This is warning log
+[2025-09-21 11:48:39] ERROR LoggingDemo - This is error
+[2025-09-21 11:48:39] INFO  LoggingDemo - This is info
